@@ -1,3 +1,7 @@
+Modelling_Input.xlsx
+Test_Input.xlsx
+outputs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
